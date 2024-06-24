@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+PIL
+opencv-python
+tensorflow
+keras
+seaborn
+PIL
+sklearn
+imghdr
